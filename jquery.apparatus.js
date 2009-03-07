@@ -1,12 +1,19 @@
 /*
- * Apparatus JQuery Plugin
+ * Apparatus jQuery Plugin
  * version: 0.6 (04/07/2009)
+ * @requires jQuery v1.2 or later
  *
  *
  * Licensed under the MIT:
  *   http://www.opensource.org/licenses/mit-license.php
  *
  * Copyright 2009 Adam Kirkwood [ hello@adamkirkwood.com ]
+ *
+ *
+ * Upcoming Features:
+ *	 - Retrieve notes
+ *	 - Retrive friend connections
+ *
  *
 */
 
